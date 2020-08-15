@@ -6,7 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-spotdl = "*"
+fbs = "*"
+pyqt5 = "==5.9.2"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
