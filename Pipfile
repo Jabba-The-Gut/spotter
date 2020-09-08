@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 fbs = "*"
 pyqt5 = "==5.9.2"
+spotipy = "*"
 
 [requires]
 python_version = "3.6"
